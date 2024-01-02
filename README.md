@@ -1,3 +1,3 @@
-# mark-sql-proj--search-movies-cli
+# mark-sql-proj--search-movies-cli-js
 
-A starting typescript project for the OMDB movie search CLI.
+A starting javascript project for the OMDB movie search CLI.
